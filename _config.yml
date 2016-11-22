@@ -1,4 +1,4 @@
 name: The New Normal Sentinel - You're What's Important To Us
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /nns/blog/:year/:month/:day/:title
 
